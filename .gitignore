@@ -1,0 +1,16 @@
+#virtual env
+venv/
+.venv/
+
+#python generated files
+__pycache__/
+*.py[cod]
+
+#envirnoment variables
+.env
+
+#vs code ide
+.vscode/
+
+# checkpoints
+.ipynb_checkpoints/
